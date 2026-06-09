@@ -1,3 +1,5 @@
 <Solution>
-  <Project Path="KeyValueStorageApp/KeyValueStorageApp.csproj" />
+  <Project Path="KeyValueStorageApp/KeyValueStorage.csproj" />
+  <Project Path="Perfomance/Perfomance.csproj" Id="031e2ddc-1a97-4dc5-aa94-8dd0dc45c5aa" />
+  <Project Path="Tests/Tests.csproj" Id="f12e1997-048f-4005-9c10-5d9504dad85f" />
 </Solution>
